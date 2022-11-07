@@ -1,4 +1,4 @@
-package utils
+package mallCommon
 
 import (
 	"crypto/md5"

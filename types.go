@@ -1,4 +1,4 @@
-package logx
+package mallCommon
 
 import "github.com/zeromicro/go-zero/core/logx"
 
